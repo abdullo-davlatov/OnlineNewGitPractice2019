@@ -6,3 +6,4 @@ Tesla
 Mersedes S550
 kia Optima
 Subaru WRX STI
+Range Rover Velar
